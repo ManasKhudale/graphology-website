@@ -94,7 +94,7 @@ export default function Home() {
       <Image src="/sample-logo.png" className="sample-logo" alt="Sample Logo" width={50} height={50} />
       </div>
       <div className="review-content">
-      Graphology Enthusiast's Haven <br /><br />
+      Graphology Enthusiast&apos;s Haven <br /><br />
       </div>
       <div className="reviewer">
       <div className="reviewer-pic"></div>
